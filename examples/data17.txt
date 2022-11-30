@@ -1,0 +1,17 @@
+A3 H- H2 N5 N6 N1 N- N2 b- b2 l- l- l1 l3 p5 {- {-
+A1 A- L- N- T4 T- N4 _- b- f- g6 p3 p2 p- p- {1 {-
+B7 A5 A- M- T2 X4 X- X- b- g- g- g4 g- p- p1 u- {5
+B5 A2 M- M- T- P- X- `- c4 c- c- c1 g- u3 u- u5 {-
+B- D6 M2 O- P- P- P7 `- c- [- c3 q- q5 q6 u- u- {3
+B- D4 M1 P- P- P4 [- [- [3 [- h- q2 q- q- v- v2 z-
+B- D- D- D3 D- W- W- W- [1 h- h3 m6 m4 x- z- z- z-
+B1 B- C- D- Q- Y- W- a5 a- a4 h- m5 m- w- w2 w6 }-
+C- C- C- Q4 Q- Y- W3 a- a- a- m- m2 m- w- w- w4 }-
+E3 C4 C- Q2 R- Y2 /- /- /3 i- j- j6 s4 s5 s- |- }-
+E- E1 E- Q1 R- Y- Y3 Y7 Y5 j- j- j2 s3 y- s2 s6 }-
+F- I6 I- R- R- Z3 Z4 Z- Z- j1 j- r- t- t- s- ~3 ~5
+F- I2 I1 I- U- V7 ]- Z- ]3 k- n- n3 n- t6 ~- ~- ~1
+F- J- J- I- U- V- ]1 ]- ]- k- n- o- n- t- @- ?- ?6
+F- F- F1 K3 V- V3 V5 ^- ^5 ^- o2 o- o6 t3 @4 @- ?5
+G3 K- K- K- K6 V- ^7 ^4 d- e5 e- o- o4 t- @- ?- ?-
+G- G2 K4 S- S- V- ^- ^- e3 e- e1 e6 e2 t- @2 ?4 ?1
